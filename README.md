@@ -1,10 +1,6 @@
-![](https://imgkr.cn-bj.ufileos.com/b4c806dd-caa2-43f4-82d9-796ce6716267.svg)
+![](https://droganc.oss-cn-hangzhou.aliyuncs.com/github/0.jpeg?Expires=1595057172&OSSAccessKeyId=TMP.3Ke6cApXRB8WAuqMxQcM2srsyhxBbhD6iBDEoMWNfKSEScAJAxuczU9sT6h7QrG92mjnycSQXvdnwrxm3HVAUtDumHU68g&Signature=M1FKyJpxxP3cE%2FddJIbpRxmK9NE%3D)
 
-请使用 **Chrome** 浏览器。
 
-请阅读下方文本熟悉工具使用方法，本文可直接拷贝到微信中预览。
-
-## 1 Markdown Nice 简介
 
 - 支持自定义样式的 Markdown 编辑器
 - 支持微信公众号、知乎和稀土掘金
