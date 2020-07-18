@@ -1,11 +1,11 @@
-# Hello ! I'm Droganc
+## Hello ! I'm Droganc
 
 ![](https://droganc.oss-cn-hangzhou.aliyuncs.com/github/0.jpeg)
 
 ![](https://droganc.oss-cn-hangzhou.aliyuncs.com/github/1.jpg)
 
 ```javascript
-// FileName: HelloWorld.java
+// dec: hello.js
 class Chenlong {
   name:'chen long',
   age:25,
