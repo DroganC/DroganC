@@ -6,7 +6,7 @@
 </div>
 
 ```javascript
-// dec: hello.js
+// desc: hello.js
 class Chenlong {
   name:'chen long',
   age:25,
